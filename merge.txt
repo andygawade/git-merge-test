@@ -1,1 +1,1 @@
-The git conflict example
+I am a developer 1
